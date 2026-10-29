@@ -11,5 +11,5 @@ knightMoves([0,0],[1,2]); // returns [[0,0],[1,2]]
 
 ### How to use
 - Clone repo
-- cd ./TOP-Knights-Travails
-- node ./index.js
+- cd .\TOP-Knights-Travails
+- node .\index.js
